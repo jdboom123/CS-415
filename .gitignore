@@ -41,6 +41,9 @@
 *.VC.db
 *.VC.opendb
 
+#Miscallenous
+*.mov
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
