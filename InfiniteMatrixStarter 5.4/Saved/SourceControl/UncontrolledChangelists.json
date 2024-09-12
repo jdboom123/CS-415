@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/T_Restart.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WBP_Healthbar.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Healthpack.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Red.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Bullet.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Health.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Enemy.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Tunnel_LowHealth.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/SM_Tunnel.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Tunnel_HighHealth.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Tunnel.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/SM_Hole_01.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/SM_Hole_02.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/SM_Hole_03.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/SM_Hole_04.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Hole_HighHealth.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Hole.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Hole_LowHealth.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_CameraShake.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Hole_MidHealth.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Hole_NoHealth.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Tunnel_MidHealth.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Tunnel_NoHealth.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Hole1.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/T_Restart.uasset"
+			]
+		}
+	]
+}
